@@ -1,0 +1,7 @@
+img {
+  border: 1px pink solid;
+  border-radius: 20px;
+  width: 50px;
+  height: 60px;
+  padding: 2px;
+}
