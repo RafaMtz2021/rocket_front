@@ -1,4 +1,3 @@
-
 const Birthdate = (props) => {
   const {
     day,

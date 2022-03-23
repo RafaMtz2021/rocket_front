@@ -1,4 +1,3 @@
-
 const ContactData = (props) => {
   const {
     email,
@@ -7,13 +6,6 @@ const ContactData = (props) => {
     setPhoneNumber,
   } = props
  
-  // Validación del Formulario
-  // if ([firstName, secondName, firstSurname, secondSurname].includes("")) {
-  //   <Alert color="danger">
-  //     Hay un campo vacío
-  //   </Alert> 
-  // }
-
   return (
     <>
       Datos de contacto
